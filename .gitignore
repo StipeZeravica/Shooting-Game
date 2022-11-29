@@ -55,7 +55,7 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-
+cmake-build-debug
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
@@ -86,6 +86,7 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+.idea/*
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
